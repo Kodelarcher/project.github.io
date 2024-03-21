@@ -16,7 +16,8 @@
           <div class="div-wrapper"><div class="div">Войдите с Либук ID</div></div>
           <div class="overlap">
             <div class="property-wrapper">
-              <div class="property"><div class="div">Почта</div></div>
+              <div class="property"><div class="div">Почта
+	      <input class="input100" type="email" id="email" name="email" placeholder="email"></div></div>
             </div>
             <div class="property-2"><div class="text-wrapper-2">Телефон</div></div>
           </div>
